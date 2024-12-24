@@ -1,0 +1,11 @@
+http://localhost/apm_api/category_master/create.php
+{
+    "category_names":"ABC"
+}
+
+http://localhost/apm_api/category_master/read.php
+http://localhost/apm_api/category_master/read_one.php?id=1
+http://localhost/apm_api/category_master/delete.php
+{
+    "id":3
+}

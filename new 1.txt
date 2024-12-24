@@ -1,0 +1,39 @@
+{
+ "cus_name":"Pradeep",
+ "mob_no":9964553995,
+ "alt_mob_no":9740637289,
+"cat_id":1,
+"from_id":1,
+"to_id":2,
+"from_addr":"Killambalepadpu",
+"to_addr":"Bangalore",
+"flr_type_id":1,
+"ship_dt":"2020-01-02",
+"distance":209,
+"ship_chrg":500,
+"ship_disc":20,
+"status":1,
+"booked_by":5,
+"shippingitems":[[6,7],[8,9]]
+} 
+
+update
+{
+ "cus_name":"Pradeep RAI K",
+ "mob_no":9964553995,
+ "alt_mob_no":9740637289,
+"cat_id":1,
+"from_id":2,
+"to_id":2,
+"from_addr":"Killambalepadpu",
+"to_addr":"Bangalore",
+"flr_type_id":1,
+"ship_dt":"2020-01-02",
+"distance":209,
+"ship_chrg":501,
+"ship_disc":20,
+"status":1,
+"booked_by":5,
+"id":17,
+"shippingitems":[[6,1,19],[8,1,20]]
+} 
